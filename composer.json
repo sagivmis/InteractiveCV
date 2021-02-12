@@ -1,0 +1,7 @@
+{
+  "require": {
+    "php": ">=5.4.2"
+  },
+  "name": "sagiv/interactivecv",
+  "description": "Hi"
+}
