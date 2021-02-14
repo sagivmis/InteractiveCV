@@ -1,31 +1,23 @@
 {
-  "name": "node-js-getting-started",
-  "version": "0.3.0",
-  "description": "A sample Node.js app using Express 4",
+  "name": "interactive-cv",
+  "version": "0.1.0",
+  "description": "Interactive resume",
   "engines": {
     "node": "14.x"
   },
-  "main": "index.js",
+  "main": "script.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "node script.js",
     "test": "node test.js"
-  },
-  "dependencies": {
-    "ejs": "^3.1.5",
-    "express": "^4.15.2"
-  },
-  "devDependencies": {
-    "got": "^11.3.0",
-    "tape": "^4.7.0"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/heroku/node-js-getting-started"
+    "url": "https://github.com/sagivmis/InteractiveCV"
   },
   "keywords": [
-    "node",
-    "heroku",
-    "express"
+    "sagiv",
+    "mishaan",
+    "cv"
   ],
   "license": "MIT"
 }
