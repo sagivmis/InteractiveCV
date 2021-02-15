@@ -8,10 +8,10 @@
 html {
   /* background-image: linear-gradient(to top left, #3f7fbf 0%, #476684 100%); */
   background: url("../code-2.jpg") no-repeat center center fixed;
-  /* -webkit-background-size: cover; */
-  /* -moz-background-size: cover; */
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
   background-size: cover;
-  /* -o-background-size: cover; */
+  -o-background-size: cover;
   /* background-size: cover; */
 }
 body {
@@ -198,7 +198,7 @@ h1:hover {
   transform: translateX(-50%);
   font-family: "Nunito", sans-serif;
   cursor: pointer;
-  /* width: 100px; */
+  /* width: 90px; */
   height: 20px;
   margin: 10px;
   padding: 0.6rem 2.5rem;
@@ -244,13 +244,14 @@ h1:hover {
 
 .btn--enter {
   text-transform: uppercase;
+  /* font-size: 0.9rem; */
   /* top: 105%;
   left: 69%; */
 }
 .btn--linkedin {
-  left: 34%;
+  left: 32%;
   text-transform: uppercase;
-  width: 67px;
+  /* width: 76px; */
 }
 .btn--linkedin:hover {
   color: #3293d2;
@@ -261,9 +262,9 @@ h1:hover {
   transition: 1s;
 }
 .btn--git {
-  left: 66%;
+  left: 68%;
   text-transform: uppercase;
-  width: 76px;
+  /* width: 76px; */
 }
 .btn--git:hover {
   color: #868686;
@@ -305,7 +306,7 @@ h1:hover {
 }
 #img--gmail {
   position: absolute;
-  left: 21%;
+  left: 18%;
   top: 268.5%;
   width: 55px;
   height: 39px;
@@ -314,8 +315,7 @@ h1:hover {
   box-shadow: 0 3rem 5rem rgba(0, 0, 0, 0.7);
 }
 #img--gmail:hover {
-  left: 20.85%;
-
+  left: 17.85%;
   top: 261%;
   box-shadow: 0 1rem 5rem rgb(255, 255, 255, 0.7);
 }
