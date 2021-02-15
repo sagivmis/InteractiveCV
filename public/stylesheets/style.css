@@ -152,14 +152,7 @@ h1:hover {
   transition: 1.2s;
   opacity: 100%;
 }
-.skills--modal::before {
-  transition: 1s;
-  top: 50%;
-}
-.skills--modal::after {
-  transition: 1s;
-  top: 50%;
-}
+
 .close-modal {
   position: absolute;
   padding: 8.5px;
@@ -174,9 +167,13 @@ h1:hover {
 #skills--modal {
   left: 7.2%;
   top: -119%;
-  width: 13%;
+  width: 8%;
+  border-radius: 6%;
 }
 #cv--modal {
+  width: 6%;
+  height: 15%;
+  border-radius: 6%;
   top: 220%;
 }
 #objective--modal {
