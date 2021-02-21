@@ -1,6 +1,6 @@
 # My CV as interactive website  
 Main features:
-  -Watch CV
+  -Watch CV /r
   -Skills
   -Objective
   -GitHub link
