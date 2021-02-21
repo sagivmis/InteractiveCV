@@ -1,5 +1,5 @@
 # My CV as interactive website  
-Main features:
+Main features:  
   -Watch CV  
   -Skills  
   -Objective  
