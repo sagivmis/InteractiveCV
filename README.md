@@ -4,4 +4,4 @@
   -Skills\
   -Objective\
   -GitHub link\
-  -LinkedIn link\
+  -LinkedIn link
