@@ -88,13 +88,19 @@ h1:hover {
 
 /* cv par. */
 #par--start {
-  top: 4.5rem;
+  top: 4.2rem;
+  left: 20%;
+  font-weight: 700;
 }
 #par--0 {
   top: 10.5rem;
 }
 #par--1 {
   top: 16.5rem;
+}
+#start--description {
+  top: 5.7rem;
+  left: 20%;
 }
 /* skills par. */
 #pars--start {
